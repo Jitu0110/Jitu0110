@@ -12,11 +12,11 @@ I am a Computer Engineering graduate student 🎓 from Syracuse University 🏛�
 
 ### More about me:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Java, C++, Spring Boot, Vue.js, <br /> Elasticsearch, Swift, iOS, Solidity, RestAPI, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development and iOS App Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Jitu0110).
 - 📫 &nbsp; How to reach me: jituvasishta0110@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
