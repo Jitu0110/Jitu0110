@@ -8,7 +8,7 @@
 I am a Computer Engineering graduate student 🎓 from Syracuse University 🏛️ with a strong passion for continuous learning and cross-disciplinary work 💡. My enthusiasm lies in exploring cutting-edge technologies and utilizing them to solve real-life challenges ✨. Additionally, I find joy in guiding and mentoring newcomers 👨🏻‍💻. Currently, my focus is on Web Development 🕸️ while also honing my skills in Data Structures and Algorithms 🤓.
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/Jitu0110/Jitu0110/blob/main/coder.gif" />
 
 ### More about me:
 
