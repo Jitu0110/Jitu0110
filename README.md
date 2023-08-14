@@ -1,4 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+Hello+there!+👋+.+.+.;.+.+.+I'm+Jitendra+Vasishta+.+.+.;.+.+.+Welcome+to+my+Github+profile!+😁+.+.+.)](https://git.io/typing-svg)
+
+<!--
 ## Hey 👋, I'm [Jitendra Vasishta!](https://github.com/Jitu0110/)
+-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-vasishta-191759117/)
 
