@@ -6,7 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-vasishta-191759117/)
 
-
 ### Glad to see you here!
 
 I am a Computer Engineering graduate student 🎓 from Syracuse University 🏛️ with a strong passion for continuous learning and cross-disciplinary work 💡. My enthusiasm lies in exploring cutting-edge technologies and utilizing them to solve real-life challenges ✨. Additionally, I find joy in guiding and mentoring newcomers 👨🏻‍💻. Currently, my focus is on Web Development 🕸️ while also honing my skills in Data Structures and Algorithms 🤓.
@@ -63,7 +62,8 @@ I am a Computer Engineering graduate student 🎓 from Syracuse University 🏛�
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jitu0110&hide_border=true" />
 </details>
- 
+
+ ![](https://komarev.com/ghpvc/?username=jitu0110&style=flat-square)
 
 
 #
