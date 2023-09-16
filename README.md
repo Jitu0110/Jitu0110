@@ -21,12 +21,6 @@ I am a Computer Engineering graduate student 🎓 from Syracuse University 🏛�
 - 📫 &nbsp; How to reach me: jituvasishta0110@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuff.
-- 📰 &nbsp; Reading tech blogs and articles whenever possible.
-- 🍕 &nbsp; Meetups & tech events.
-- ⚽️ &nbsp; I'm an ardent football fan and thoroughly enjoy playing the sport myself.
 
 ### Languages and Tools:
 
