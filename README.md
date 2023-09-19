@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=B22222&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+Hello+there!+👋+.+.+.;.+.+.+I'm+Jitendra+Vasishta+.+.+.;.+.+.+Welcome+to+my+Github+profile!+😁+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=87CEEB&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+Hello+there!+👋+.+.+.;.+.+.+I'm+Jitendra+Vasishta+.+.+.;.+.+.+Welcome+to+my+Github+profile!+😁+.+.+.)](https://git.io/typing-svg)
 
 <!--
 ## Hey 👋, I'm [Jitendra Vasishta!](https://github.com/Jitu0110/)
