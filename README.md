@@ -8,18 +8,20 @@
 
 ### Glad to see you here!
 
-I am a Computer Engineering graduate student 🎓 from Syracuse University 🏛️ with a strong passion for continuous learning and cross-disciplinary work 💡. My enthusiasm lies in exploring cutting-edge technologies and utilizing them to solve real-life challenges ✨. Additionally, I find joy in guiding and mentoring newcomers 👨🏻‍💻. Currently, my focus is on Web Development 🕸️ while also honing my skills in Data Structures and Algorithms 🤓.
+Computer Engineering graduate student @Syracuse University 🎓 | Passionate about leveraging cutting-edge technologies to solve real-world challenges | Focused on Web Development and mastering Data Structures and Algorithms | Dedicated to guiding and mentoring newcomers in the field | Always learning and striving for success.
 
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/Jitu0110/Jitu0110/blob/main/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="Hi.gif" />
 
 ### More about me:
 
-- 🛠 &nbsp; I’m currently working with Java, C++, Spring Boot, Vue.js, <br /> Elasticsearch, Swift, iOS, Solidity, RestAPI, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development and iOS App Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Jitu0110).
-- 📫 &nbsp; How to reach me: jituvasishta0110@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
+
+
+- 🛠️ Proficient in Java, C++, Python, Spring Boot, Vue.js, Elasticsearch, Swift, iOS, Solidity, RESTful APIs, MongoDB, JavaScript, and more.
+- 🚀 Actively expanding expertise in Full Stack Development and iOS App Development.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Jitu0110).
+- 📫 How to reach me: jituvasishta0110@gmail.com.
+- 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
 
 
 ### Languages and Tools:
