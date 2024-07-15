@@ -6,20 +6,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-vasishta-191759117/)
 
-### Glad to see you here!
 
 Computer Engineering graduate student @Syracuse University 🎓 | Passionate about leveraging cutting-edge technologies to solve real-world challenges | Focused on Web Development and mastering Data Structures and Algorithms | Dedicated to guiding and mentoring newcomers in the field | Always learning and striving for success.
 
 
 <img align="right" height="250" width="375" alt="" src="Hi.gif" />
 
-### More about me:
 
-
-
-- 🛠️ Proficient in Java, C++, Python, Spring Boot, Vue.js, Elasticsearch, Swift, iOS, Solidity, RESTful APIs, MongoDB, JavaScript, and more.
-- 🚀 Actively expanding expertise in Full Stack Development and iOS App Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Jitu0110).
+- 🛠️ Tech stack : Java, C++, Python, SQL, Spring Boot, RESTful APIs, Elasticsearch, MongoDB, PostgreSQL, React.js, JavaScript, HTML, CSS.
 - 📫 How to reach me: jituvasishta0110@gmail.com.
 - 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
 
