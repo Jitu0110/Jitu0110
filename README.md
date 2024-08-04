@@ -16,7 +16,15 @@ Computer Engineering graduate student @Syracuse University 🎓 | Passionate abo
 - 🛠️ Tech stack : Java, C++, Python, SQL, Spring Boot, FastAPI, Django, RESTful APIs, Elasticsearch, MongoDB, PostgreSQL, React.js, JavaScript, HTML, CSS, GCP, AWS.
 - 📫 How to reach me: jituvasishta0110@gmail.com.
 - 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
+- Currently messing around with Python, Streamlit, LLM, RAG, Embeddings, Langchain.
 
+*****
+
+Do you want to tweak your resume for a specific role? 
+
+Check out my project : https://huggingface.co/spaces/jitu0110/SikeResume
+
+*****
 
 ### Languages and Tools:
 
