@@ -22,7 +22,7 @@ Computer Engineering graduate student @Syracuse University 🎓 | Passionate abo
 
 Do you want to tweak your resume for a specific job role? 
 
-Check out my project : https://huggingface.co/spaces/jitu0110/SikeResume
+Check out my project : https://sikeresume.streamlit.app/
 
 *****
 
