@@ -5,10 +5,7 @@
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-vasishta-191759117/)
-
-
-Software Engineer | Computer Engineering graduate student @Syracuse University 🎓 | Passionate about leveraging cutting-edge technologies to solve real-world challenges | Focused on Web Development and mastering Data Structures and Algorithms | Dedicated to guiding and mentoring newcomers in the field | Always learning and striving for success.
-
+ 
 
 <!--
 <img align="right" height="250" width="375" alt="" src="Hi.gif" />
