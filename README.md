@@ -20,7 +20,7 @@
 
 *****
 
-Do you want to tweak your resume for a specific job role? 
+Do you want to tailor your resume for a specific job role? 
 
 Check out my project : https://sikeresume.streamlit.app/
 
