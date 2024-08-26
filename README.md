@@ -11,7 +11,7 @@
 <img align="right" height="250" width="375" alt="" src="Hi.gif" />
 -->
 
-- 🛠️ Tech stack : Java, Scala, C++, Python, SQL, Spring Boot, FastAPI, Django, RESTful APIs, Elasticsearch, MongoDB, PostgreSQL, React.js, JavaScript, HTML, CSS, GCP, AWS.
+- 🛠️ Tech stack : Java, Python, C++, SQL, Spring Boot, FastAPI, Django, RESTful APIs, Elasticsearch, MongoDB, PostgreSQL, React.js, JavaScript, HTML, CSS, GCP, AWS.
 - 📫 How to reach me: jituvasishta0110@gmail.com.
 <!-- 
 - 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
