@@ -16,15 +16,7 @@
 <!-- 
 - 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
 -->
-- Currently messing around with Python, Streamlit, LLM, RAG, Embeddings, Langchain.
 
-*****
-
-Do you want to tailor your resume for a specific job role? 
-
-Check out my project : https://sikeresume.streamlit.app/
-
-*****
 
 ### Languages and Tools:
 
