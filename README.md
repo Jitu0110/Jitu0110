@@ -7,11 +7,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendravasishta/)
  
 
-<!--
-<img align="right" height="250" width="375" alt="" src="Hi.gif" />
--->
 
-- 🛠️ Tech stack : Java, Python, C++, SQL, Spring Boot, FastAPI, Django, RESTful APIs, Elasticsearch, MongoDB, PostgreSQL, React.js, JavaScript, HTML, CSS, GCP, AWS.
+<img align="right" height="250" width="375" alt="" src="Hi.gif" />
+
+
+- 🛠️ Tech stack : Java, Python, SQL, Spring Boot, Django, RESTful APIs, Elasticsearch, PostgreSQL, React.js, TypeScript, Tailwind, AWS.
 - 📫 How to reach me: jituvasishta0110@gmail.com.
 <!-- 
 - 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
