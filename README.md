@@ -7,9 +7,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendravasishta/)
  
 
-<!--
+
 <img align="right" height="250" width="375" alt="" src="Hi.gif" />
--->
+
 
 - 🛠️ Tech stack : Java, Python, SQL, Spring Boot, RESTful APIs, Elasticsearch, PostgreSQL, React.js, TypeScript, Tailwind, AWS.
 - 📫 How to reach me: jituvasishta0110@gmail.com.
@@ -17,7 +17,7 @@
 - 📝 Checkout my [Resume](https://github.com/Jitu0110/Jitu0110/blob/main/resume.pdf).
 -->
 
-
+<!--
 ### Languages and Tools:
 
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1920px-Java_programming_language_logo.svg.png" alt="java"></code>
@@ -30,6 +30,7 @@
 <code><img height="27" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+-->
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
