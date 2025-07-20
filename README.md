@@ -7,9 +7,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendravasishta/)
  
 
-
+<!-- 
 <img align="right" height="250" width="375" alt="" src="Hi.gif" />
-
+-->
 
 - 🛠️ Tech stack : Java, Python, SQL, Spring Boot, RESTful APIs, Elasticsearch, PostgreSQL, React.js, TypeScript, Tailwind, AWS.
 - 📫 How to reach me: jituvasishta0110@gmail.com.
